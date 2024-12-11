@@ -83,7 +83,8 @@ StudentManagementSystem/
 ## Screenshots
 
 ### Main UI
-![Main UI](C:\Users\sweth\Downloads\praveen\pythonProject\Student-Management-System\image\output_Screen.png)
+![Main UI](![image](https://github.com/user-attachments/assets/17beb319-727a-4e59-a1e2-ceba625a1953)
+)
 
 ## Known Issues
 
